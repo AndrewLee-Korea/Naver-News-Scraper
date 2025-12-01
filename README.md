@@ -24,7 +24,7 @@ This project provides an end-to-end solution for Korean news text analysis:
 ## Project Structure
 
 ```
-Naver-News-Scraper/
+Analysis-of-Naver-News/
 ├── scrape_naver_news.ipynb    # News scraping notebook
 ├── analyze_naver_news.ipynb   # Topic modeling notebook
 ├── get_naver_news.py          # Scraping utility functions

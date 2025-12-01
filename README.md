@@ -1,4 +1,4 @@
-# Naver News Scraper & Topic Modeling
+# Analysis of Naver News — Scraping, NLP Preprocessing, and LDA Topic Modeling
 
 A Python-based pipeline for scraping Korean news articles from Naver and performing topic modeling analysis using LDA.
 
@@ -121,7 +121,7 @@ Andrew Lee ([@AndrewLee-Korea](https://github.com/AndrewLee-Korea))
 ---
 
 <a name="한국어"></a>
-# 네이버 뉴스 스크래퍼 & 토픽 모델링
+# 네이버 뉴스 분석 — 스크래핑, NLP 전처리, LDA 토픽 모델링
 
 네이버 뉴스 기사를 수집하고 LDA 토픽 모델링을 수행하는 Python 기반 파이프라인입니다.
 

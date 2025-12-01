@@ -145,7 +145,7 @@ Andrew Lee ([@AndrewLee-Korea](https://github.com/AndrewLee-Korea))
 ## 프로젝트 구조
 
 ```
-Naver-News-Scraper/
+Analysis-of-Naver-News/
 ├── scrape_naver_news.ipynb    # 뉴스 스크래핑 노트북
 ├── analyze_naver_news.ipynb   # 토픽 모델링 노트북
 ├── get_naver_news.py          # 스크래핑 유틸리티 함수
